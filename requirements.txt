@@ -1,0 +1,9 @@
+streamlit
+requests
+spacy
+fastcoref
+torch
+transformers==4.31.0
+datasets==2.10.0
+pyarrow==14.0.1
+numpy==1.26.4
